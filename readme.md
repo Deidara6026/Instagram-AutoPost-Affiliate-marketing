@@ -1,6 +1,6 @@
 # InstaProject
 
-This is a Python script that was designed to automate the process of fetching product data from an e-commerce website, and then posting that data to Instagram using the `instabot` library. The script fetches product data such as product name, ID, URL, price, discount, and image URL. It then posts this data to Instagram with a caption that includes the product's title, discount, price, and affiliate link.
+This is an affiliate marketing Python script that was designed to automate the process of fetching product data from an e-commerce website, and then posting that data to Instagram using the `instabot` library. The script fetches product data such as product name, ID, URL, price, discount, and image URL. It then posts this data to Instagram with a caption that includes the product's title, discount, price, and affiliate link.
 
 The script also includes functionality to keep track of which products have been seen and posted, to avoid posting the same product multiple times.
 
